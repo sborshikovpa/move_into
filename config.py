@@ -1,5 +1,0 @@
-MAP_X = 5
-MAP_Y = 5
-MAP_SYMBOL = '*'
-CHAR_SYMBOL = 'c'
-ENEMY_SYMBOL = 'e'
